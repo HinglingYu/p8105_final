@@ -1,0 +1,6 @@
+---
+title: "p8105_fianl_proposal"
+author: "Xuer.L, Hingling.Y, Xinyi.Z, Ying.L"
+date: "2023-11-11"
+output: github_document
+---
