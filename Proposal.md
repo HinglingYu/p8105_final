@@ -74,3 +74,5 @@ ay2600
 | 11/21/2023- 11/27/2023 |                                    Finish EDA Section, Time Series Plot and analysis linear model part, beginning Interactive World Map.                                     |
 | 11/28/2023- 12/05/2023 |                                                                         Finish the report and video.                                                                         |
 |       12/09/2023       |                                                                                   Submit!!                                                                                   |
+
+Everyone in the team has contributed to this proposal
