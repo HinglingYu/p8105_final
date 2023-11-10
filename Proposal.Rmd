@@ -4,3 +4,5 @@ author: "Xuer.L, Hingling.Y, Xinyi.Z, Ying.L"
 date: "2023-11-11"
 output: github_document
 ---
+
+This is the Proposal of our group project
