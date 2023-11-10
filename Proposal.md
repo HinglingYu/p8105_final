@@ -64,14 +64,6 @@ ay2600
   level, marital status, and age. So we need to make causal inference on
   observational dataset by using applicable methods.
 
-11.11 Proposal 11.12~11.15 Find related dataset to include more
-variables for customer purchasing behavior. Determine the predictors.
-Explore and clean the data and discuss which plots we should use. 11.16
-Meeting with TA. 11.16~11.20 Assign individual tasks and schedule weekly
-meetings. 11.21~11.27 Finish EDA Section, Time Series Plot and analysis
-linear model part, beginning Interactive World Map. 11.28~12.5 Finish
-the report and video. 12.9~ Submit!!
-
 ## Planned Timeline
 
 |          Date          |                                                                                 Descriptions                                                                                 |
