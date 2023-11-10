@@ -1,8 +1,13 @@
 ---
 title: "p8105_fianl_proposal"
-author: "Xuer.L, Hingling.Y, Xinyi.Z, Ying.L"
+author: "Xuer.Liu, Hingling.Yu, Xinyi.Zheng, Ying.Li"
 date: "2023-11-11"
 output: github_document
 ---
 
 
+## Group members (names and uni)
+Xuer Liu: xl3371
+Jennifer Li: yl5227
+Xinyi Zheng: xz3298
+Hingling Yu: ay2600
