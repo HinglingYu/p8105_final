@@ -6,3 +6,7 @@ output: github_document
 ---
 
 This is the Proposal of our group project
+
+```{r}
+cat("Can u guys see this?")
+```
